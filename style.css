@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 45px;
+}
+
+.grow {
+    color: #000;
+font-family: Gilroy-Bold;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.be {
+    color: #F25822;
+font-family: Gilroy-Bold;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.menu_link {
+    color: #000;
+font-family: Gilroy-Medium;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.main_text {
+    padding-top: 100px;
+}
+
+.title {
+    color: #000;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.text_p {
+    margin: 20px;
+    color: #888;
+
+font-family: Gilroy-Medium;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+.buttons {
+    padding: 20px;
+}
+
+.button {
+    padding: 15px;
+    color: #FFF;
+
+font-family: Gilroy-Bold;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+border-radius: 50px;
+background: #F25822;
+}
+
+.button_link {
+    color: #AAA;
+
+font-family: Gilroy-Bold;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+}
+
+.footer {
+    padding: 45px;
+}
